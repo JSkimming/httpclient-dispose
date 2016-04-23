@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{71E4F3ED-D658-46CD-A06C-28E7E91299D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClient.Dispose", "src\HttpClient.Dispose\HttpClient.Dispose.csproj", "{E625DE29-E7E6-4A3F-AE2C-D6CC8123811D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E625DE29-E7E6-4A3F-AE2C-D6CC8123811D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E625DE29-E7E6-4A3F-AE2C-D6CC8123811D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E625DE29-E7E6-4A3F-AE2C-D6CC8123811D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E625DE29-E7E6-4A3F-AE2C-D6CC8123811D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E625DE29-E7E6-4A3F-AE2C-D6CC8123811D} = {71E4F3ED-D658-46CD-A06C-28E7E91299D4}
+	EndGlobalSection
+EndGlobal
